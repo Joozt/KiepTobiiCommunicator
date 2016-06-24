@@ -1,5 +1,7 @@
 # Tobii Dynavox Communicator 4 page sets
 
+Tobii Dynavox Communicator 4 can be downloaded [here](https://www.mytobiidynavox.com/Support/Communicator4). If you don't activate or start the trial mode, you can test out the page sets and edit them. You have to press a key combination now and then, and in fullscreen it shows that it is in evaluation mode.
+
 ### Main menu
 ![Screenshot](Screenshots/01 - hoofdmenu.cdd.png)
 

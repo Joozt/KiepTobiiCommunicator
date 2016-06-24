@@ -12,7 +12,9 @@ To get to a working version, first version is limited to:
   - Increased default font size for text box
   - Send a backup/log e-mail with text box contents when clearing
   - Speak last sentence instead of whole text box contents
-  - Add full-screen mode, when using qwerty keyboard instead of on screen keyboard
+  - Add full-screen mode, when using qwerty keyboard instead of on-screen keyboard
+  - Increased font size in sentences screen
+  - Open sentences editor from sentences screen
 
 ## Next versions
  - **E-mail**

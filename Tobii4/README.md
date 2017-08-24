@@ -3,55 +3,55 @@
 Tobii Dynavox Communicator 4 can be downloaded [here](https://www.mytobiidynavox.com/Support/Communicator4). If you don't activate or start the trial mode, you can test out the page sets and edit them. You have to press a key combination now and then, and in fullscreen it shows that it is in evaluation mode.
 
 ### Main menu
-![Screenshot](Screenshots/01 - hoofdmenu.cdd.png)
+![Screenshot](https://github.com/Joozt/KiepTobiiCommunicator/raw/master/Tobii4/Screenshots/01%20-%20hoofdmenu.cdd.png)
 
 ### Keyboard
-![Screenshot](Screenshots/02 - toetsenbord.cdd - [Toetsenbord].png)
+![Screenshot](https://github.com/Joozt/KiepTobiiCommunicator/raw/master/Tobii4/Screenshots/02%20-%20toetsenbord.cdd%20-%20%5BToetsenbord%5D.png)
 
-![Screenshot](Screenshots/03 - toetsenbord.cdd - [Nummers].png)
+![Screenshot](https://github.com/Joozt/KiepTobiiCommunicator/raw/master/Tobii4/Screenshots/03%20-%20toetsenbord.cdd%20-%20%5BNummers%5D.png)
 
-![Screenshot](Screenshots/04 - toetsenbord.cdd - [Verplaats Cursor].png)
+![Screenshot](https://github.com/Joozt/KiepTobiiCommunicator/raw/master/Tobii4/Screenshots/04%20-%20toetsenbord.cdd%20-%20%5BVerplaats%20Cursor%5D.png)
 
-![Screenshot](Screenshots/05 - toetsenbord.cdd - [Geheugen].png)
+![Screenshot](https://github.com/Joozt/KiepTobiiCommunicator/raw/master/Tobii4/Screenshots/05%20-%20toetsenbord.cdd%20-%20%5BGeheugen%5D.png)
 
 ### Agenda (calls [KiepVisitorRegistration](https://github.com/Joozt/KiepVisitorRegistration) and [KiepAgendaViewer](https://github.com/Joozt/KiepAgendaViewer))
-![Screenshot](Screenshots/06 - agenda.cdd.png)
+![Screenshot](https://github.com/Joozt/KiepTobiiCommunicator/raw/master/Tobii4/Screenshots/06%20-%20agenda.cdd.png)
 
 ### E-mail
-![Screenshot](Screenshots/07 - email.cdd - [Bericht lezen].png)
+![Screenshot](https://github.com/Joozt/KiepTobiiCommunicator/raw/master/Tobii4/Screenshots/07%20-%20email.cdd%20-%20%5BBericht%20lezen%5D.png)
 
-![Screenshot](Screenshots/08 - email.cdd - [Bericht lezen full screen].png)
+![Screenshot](https://github.com/Joozt/KiepTobiiCommunicator/raw/master/Tobii4/Screenshots/08%20-%20email.cdd%20-%20%5BBericht%20lezen%20full%20screen%5D.png)
 
-![Screenshot](Screenshots/09 - email.cdd - [Contactpersonen selecteren].png)
+![Screenshot](https://github.com/Joozt/KiepTobiiCommunicator/raw/master/Tobii4/Screenshots/09%20-%20email.cdd%20-%20%5BContactpersonen%20selecteren%5D.png)
 
-![Screenshot](Screenshots/10 - email.cdd - [Postvak IN].png)
+![Screenshot](https://github.com/Joozt/KiepTobiiCommunicator/raw/master/Tobii4/Screenshots/10%20-%20email.cdd%20-%20%5BPostvak%20IN%5D.png)
 
-![Screenshot](Screenshots/11 - email.cdd - [Toetsenbord (bij onderwerp)].png)
+![Screenshot](https://github.com/Joozt/KiepTobiiCommunicator/raw/master/Tobii4/Screenshots/11%20-%20email.cdd%20-%20%5BToetsenbord%20(bij%20onderwerp)%5D.png)
 
-![Screenshot](Screenshots/12 - email.cdd - [Toetsenbord].png)
+![Screenshot](https://github.com/Joozt/KiepTobiiCommunicator/raw/master/Tobii4/Screenshots/12%20-%20email.cdd%20-%20%5BToetsenbord%5D.png)
 
-![Screenshot](Screenshots/13 - email.cdd - [Mappen kiezen].png)
+![Screenshot](https://github.com/Joozt/KiepTobiiCommunicator/raw/master/Tobii4/Screenshots/13%20-%20email.cdd%20-%20%5BMappen%20kiezen%5D.png)
 
 ### Programs (calls [KiepRover](https://github.com/Joozt/KiepRover))
-![Screenshot](Screenshots/14 - hoofdmenu.cdd - [Programma's].png)
+![Screenshot](https://github.com/Joozt/KiepTobiiCommunicator/raw/master/Tobii4/Screenshots/14%20-%20hoofdmenu.cdd%20-%20%5BProgramma's%5D.png)
 
 ### Photo viewer (calls [KiepPhotoDownloader](https://github.com/Joozt/KiepPhotoDownloader))
-![Screenshot](Screenshots/15 - afbeeldingviewer.cdd.png)
+![Screenshot](https://github.com/Joozt/KiepTobiiCommunicator/raw/master/Tobii4/Screenshots/15%20-%20afbeeldingviewer.cdd.png)
 
 ### Z-wave (calls [KiepLamp](https://github.com/Joozt/KiepLamp))
-![Screenshot](Screenshots/16 - zwave.cdd.png)
+![Screenshot](https://github.com/Joozt/KiepTobiiCommunicator/raw/master/Tobii4/Screenshots/16%20-%20zwave.cdd.png)
 
 ### Facebook
-![Screenshot](Screenshots/17 - facebook.cdd - [Facebook overzicht].png)
+![Screenshot](https://github.com/Joozt/KiepTobiiCommunicator/raw/master/Tobii4/Screenshots/17%20-%20facebook.cdd%20-%20%5BFacebook%20overzicht%5D.png)
 
-![Screenshot](Screenshots/18 - facebook.cdd - [Facebook status].png)
+![Screenshot](https://github.com/Joozt/KiepTobiiCommunicator/raw/master/Tobii4/Screenshots/18%20-%20facebook.cdd%20-%20%5BFacebook%20status%5D.png)
 
-![Screenshot](Screenshots/19 - facebook.cdd - [Facebook vrienden].png)
+![Screenshot](https://github.com/Joozt/KiepTobiiCommunicator/raw/master/Tobii4/Screenshots/19%20-%20facebook.cdd%20-%20%5BFacebook%20vrienden%5D.png)
 
-![Screenshot](Screenshots/20 - facebook.cdd - [Nieuwe vrienden zoeken].png)
+![Screenshot](https://github.com/Joozt/KiepTobiiCommunicator/raw/master/Tobii4/Screenshots/20%20-%20facebook.cdd%20-%20%5BNieuwe%20vrienden%20zoeken%5D.png)
 
 ### Games (calls [KiepTetris](https://github.com/Joozt/KiepTetris) and [KiepMissileLauncher](https://github.com/Joozt/KiepMissileLauncher))
-![Screenshot](Screenshots/21 - spellen.cdd.png)
+![Screenshot](https://github.com/Joozt/KiepTobiiCommunicator/raw/master/Tobii4/Screenshots/21%20-%20spellen.cdd.png)
 
 ### Settings (calls [KiepMouseSpeed](https://github.com/Joozt/KiepMouseSpeed))
-![Screenshot](Screenshots/22 - instellingen.cdd.png)
+![Screenshot](https://github.com/Joozt/KiepTobiiCommunicator/raw/master/Tobii4/Screenshots/22%20-%20instellingen.cdd.png)
